@@ -464,4 +464,4 @@ ReactDOM.render(
 
 Cada `Clock` configura seu próprio temporizador e atualiza de forma independente.
 
-Nos apps React, se um componente é stateful ou stateless é considerado um detalhe de implementação do componente que pode mudar com o tempo. Você pode usar componentes sem state dentro de componentes com state e vice-versa.
+Nos apps React, quer um componente seja stateful ou stateless, isso é considerado um detalhe de implementação do componente que pode mudar com o tempo. Você pode usar componentes sem state dentro de componentes com state e vice-versa.
