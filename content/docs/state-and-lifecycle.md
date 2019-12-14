@@ -105,7 +105,7 @@ class Clock extends React.Component {
 
 O método `render` será chamado toda vez que uma atualização acontecer, mas enquanto renderizarmos `<Clock>` no mesmo nó DOM, apenas uma única instância da classe `Clock` será usada. Isso nos permite usar recursos adicionais, como o estado local e os métodos de ciclo de vida.
 
-## Adicionando Estado Local a uma Classe {#adding-local-state-to-a-class}
+## Adicionando Estado Local à uma Classe {#adding-local-state-to-a-class}
 
 Vamos mover a `date` da props para o state em três passos:
 
