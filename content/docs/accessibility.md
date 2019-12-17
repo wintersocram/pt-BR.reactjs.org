@@ -384,7 +384,7 @@ Cada tipo de widget tem um padrão de design específico e espera-se que funcion
 - [Heydon Pickering - ARIA Examples](https://heydonworks.com/practical_aria_examples/)
 - [Inclusive Components](https://inclusive-components.design/)
 
-## Outros pontos a serem consideração {#other-points-for-consideration}
+## Outros pontos a serem considerados {#other-points-for-consideration}
 
 ### Definindo o idioma {#setting-the-language}
 
